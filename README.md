@@ -1,6 +1,6 @@
-EID_ArtGiant, 1000
-CID_369_Athena_Commando_F_DevilRock, 2000
-CID_370_Athena_Commando_M_EvilSuit, 2000
+EID_Griddles, 500
+CID_046_Athena_Commando_F_HolidaySweater, 1500
+CID_370_Athena_Commando_M_EvilSuit, 1300
 na
 na
 na
